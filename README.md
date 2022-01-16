@@ -15,3 +15,6 @@ https://drive.google.com/file/d/1PxBgkOZ8sYDGFjTIeHZRyQMkHyuOZWz3/view?usp=shari
 
 # Presentations_6_Chrome_Dev_Tool_visualization
 https://drive.google.com/file/d/1qSM0zYvcxaKixfqqZwfj0QEAZXE9JU_l/view?usp=sharing
+
+# Presentations_7_Features_of_web_application_testing
+https://drive.google.com/file/d/1QCIJbUEPVJdW7C-GimW16o2XRTgi8B0R/view?usp=sharing
