@@ -18,3 +18,6 @@ https://drive.google.com/file/d/1qSM0zYvcxaKixfqqZwfj0QEAZXE9JU_l/view?usp=shari
 
 # Presentations_7_Features_of_web_application_testing
 https://drive.google.com/file/d/1QCIJbUEPVJdW7C-GimW16o2XRTgi8B0R/view?usp=sharing
+
+# Presentations_8_Test_case
+https://drive.google.com/file/d/1WUEJ1iJIofwt1rPp6DUIbwwguZdLSX4A/view?usp=sharing
